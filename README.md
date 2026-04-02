@@ -4,6 +4,8 @@
 [![Status](https://img.shields.io/badge/status-working-success.svg)]()
 [![Platform](https://img.shields.io/badge/platform-web-blue.svg)]()
 
+
+<img width="800" height="600" alt="TukTuk Holic Preview" src="https://i.imgur.com/sA3PEtX.png"/>
 An advanced automation bot for **The Last Meadow** game that handles Archer, Paladin, and crafting mechanics automatically with a sleek GUI interface.
 
 ---
@@ -22,7 +24,7 @@ An advanced automation bot for **The Last Meadow** game that handles Archer, Pal
 
 ---
 
-## 🚀 Installation Guide
+## 🚀 How to use
 
 ### Method 1: Console Copy-Paste (Easiest & Recommended)
 
